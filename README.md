@@ -1,14 +1,11 @@
 ﻿# CPE106L_Proj
 
-Here is a **simple but detailed `README.md`** version without emojis or decorative symbols — clean and professional for your submission or GitHub repository.
-
----
 
 # FoodBridge: Food Rescue and Redistribution Platform
 
 **Course:** Software Design Project
 **Section:** CPE106-4
-**Group:** Group 04
+**Group:** Group 07
 **Date:** November 2025
 
 ---
@@ -197,3 +194,4 @@ The GUI will open showing the login and registration window.
 7. Project Plan and Timeline
 
 ---
+
