@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+motor
+python-dotenv
+PyJWT
+requests
+geopy
+pandas
+numpy
+matplotlib
+flet
